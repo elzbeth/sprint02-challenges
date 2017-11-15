@@ -1,0 +1,68 @@
+body{
+	width:100%;
+	min-height:100vh;
+	margin-left:10px;
+	padding:0;
+	font-family:'Roboto',sans-serif;
+	font-style:normal;
+	font-weight:300;
+}
+h1{
+	width:100%;
+	margin:0;
+	padding:25px;
+	background-color: #f7b817;
+}
+
+.container {
+	margin: 40px 20%;
+}
+
+
+.photo {
+	width: 200px;
+	height: 200px;
+	background-position: top;
+	position: relative;
+	display:inline-block;
+	margin:20px;
+}
+
+.data {
+	color:#fff;
+	font-family: 'Times New Roman', serif;
+	padding: 12px;
+	position: relative;
+	top:130px;
+	float:right;
+	text-shadow: 2px 2px rgba(0,0,0,0.50);
+
+}
+
+#coder01{
+	background-image: url("../assets/images/coders01.jpg");
+	background-size: cover;
+}
+
+#coder02{
+	background-image: url("../assets/images/coders02.jpg");
+	background-size: cover;
+}
+
+#coder03{
+	background-image: url("../assets/images/coders03.jpg");
+	background-size: cover;
+}
+
+#coder04{
+	background-image: url("../assets/images/coders04.jpg");
+	background-size: cover;
+}
+#coder05{
+	background-image: url("../assets/images/coders05.jpg");
+	background-size: cover;
+}
+#coder06{
+	background-image: url("../assets/images/coders06.jpg");
+	background-size: cover;
+}
